@@ -10,7 +10,7 @@ function CounterButton () {
     <button onClick={() => handleClick(1)} className="CounterButton">
       You clicked me {clickAmount} times
     </button>
-  )
+  );
 }
 
-export default CounterButton
+export default CounterButton;
